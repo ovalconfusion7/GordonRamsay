@@ -14,8 +14,6 @@ Eel==0.12.4
 ffmpeg==1.4
 frozenlist==1.3.0
 future==0.18.2
-gevent==21.1.2
-gevent-websocket==0.10.1
 giphy-client==1.0.0
 gitinit==1.0.8
 greenlet==1.1.0
