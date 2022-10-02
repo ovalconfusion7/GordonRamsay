@@ -3,7 +3,6 @@ aiosignal==1.2.0
 altgraph==0.17
 async-timeout==4.0.2
 attrs==21.2.0
-auto-py-to-exe @ file:///C:/Users/Imeth/Downloads/auto_py_to_exe-2.9.0-py2.py3-none-any.whl
 bottle==0.12.19
 bottle-websocket==0.2.9
 certifi==2021.5.30
